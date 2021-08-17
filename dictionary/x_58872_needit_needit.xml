@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="NeedIt" max_length="40" name="x_58872_needit_needit" type="collection">
+        <element display="true" label="Who" mandatory="true" max_length="4000" name="who" type="string_full_utf8"/>
+    </element>
+</database>
